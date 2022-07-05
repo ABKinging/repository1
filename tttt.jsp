@@ -1,3 +1,3 @@
 xiaomi.srv
-xxx@xiaomi.com
+test@xiaomi.com
 password=123456
